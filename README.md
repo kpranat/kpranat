@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML/CSS, PYTHON ,JAVA, C++
 - 💞️ I’m looking to collaborate in future
-- 📫 You can reach me thorugh instagram 
+- 📫 You can reach me thorugh email
 - ⚡ Fun fact: NOTHING
 
 <!---
