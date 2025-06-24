@@ -12,8 +12,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpranat&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpranat&theme=tokyonight)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpranat&theme=tokyo-night)
 
 
