@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate in future
 - 📫 You can reach me thorugh email
 - ⚡ Fun fact: NOTHING
+- ## 📊 GitHub Stats
+
+![kpranat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatin-annam&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatin-annam&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatin-annam&theme=tokyonight)
+
 
 <!---
 kpranat/kpranat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
