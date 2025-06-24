@@ -6,11 +6,15 @@
 - ⚡ Fun fact: NOTHING
 - ## 📊 GitHub Stats
 
-![kpranat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpranat&show_icons=true&theme=tokyonight&count_private=true)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpranat&layout=compact&theme=tokyonight)
+![K Pranat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpranat&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpranat&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpranat&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpranat&theme=tokyo-night)
 
 
 <!---
