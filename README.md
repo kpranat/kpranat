@@ -6,8 +6,6 @@
 - ⚡ Fun fact: NOTHING
 - ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![K Pranat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpranat&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpranat&layout=compact&theme=tokyonight)
